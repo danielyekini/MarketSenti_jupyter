@@ -1,0 +1,18 @@
+Twitter API:
+
+	Consumer Key (API):
+	Z2KglXrlYCjFyn7AeyO1xqGHm
+
+	Consumer Key Secret: 
+	mB8tW8C7QM0EXoZ9kEHyWyb8VCUgwhlIpfH5i0Sa2ZPcyjd2NS
+
+	Access Token: 
+	1243128581775077376-bLEvKqdXkCxGzCzLTzKeSe3aIXYqsy
+
+	Access Token Secret: 
+	wSVUezlBLwFKTkA4hroTZhGc9Ks9q6LacLGg21YvSbEnL
+
+ScraperAPI
+
+	API key: 
+	968e8294c4b39431414e4a19ee3bb222
