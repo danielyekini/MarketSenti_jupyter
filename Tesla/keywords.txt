@@ -1,0 +1,52 @@
+# Keywords to compute keyword embeddings and compare with article tites
+tesla_inclusion_keywords = [
+    # Products and Vehicles
+    "Model S", "Model 3", "Model X", "Model Y", 
+    "Tesla Roadster", "Cybertruck", "Tesla Semi", 
+    "Tesla Powerwall", "Tesla Solar Roof", "Tesla Supercharger",
+    
+    # Software and Services
+    "Autopilot", "Full Self-Driving", "FSD Beta", 
+    "Tesla Mobile App", "Over-the-Air Updates", 
+    "Tesla Energy", "Tesla Insurance",
+    
+    # Technology and Innovations
+    "Electric Vehicle", "EV", "Battery Technology", 
+    "Gigafactory", "MegaPack", "PowerPack", 
+    "Autonomous Driving", "Lithium-ion Batteries", 
+    "V3 Supercharging", "Solar Energy Products",
+    
+    # Corporate and Culture
+    "Elon Musk", "Gigafactory Berlin", "Gigafactory Shanghai", 
+    "Tesla Fremont Factory", "Tesla Annual Shareholder Meeting", 
+    "Tesla Earnings Call", "Starlink collaboration",
+    
+    # Events and Conferences
+    "Tesla AI Day", "Battery Day", "Tesla Shareholder Meeting", 
+    "Cyber Rodeo", "Model Y Unveiling", "Tesla Roadster Unveiling",
+    
+    # Competitors and Industry
+    "Tesla vs. Lucid", "Tesla vs. Rivian", "Tesla vs. Ford", 
+    "Tesla Market Share", "Electric Vehicle Market", 
+    "Renewable Energy Sector",
+]
+
+tesla_exclusion_keywords = [
+    # Nikola Tesla and Historical References
+    "Nikola Tesla", "Tesla Coil", "Wardenclyffe Tower", 
+    "Alternating Current", "AC Motor", "Wireless Transmission",
+    
+    # Tesla the Band
+    "Tesla Band", "Tesla Music Group", "Tesla Five Man Acoustical Jam", 
+    "Signs - Tesla", "Love Song - Tesla",
+    
+    # Common Misinterpretations and Unrelated Uses
+    "Tesla in literature", "Tesla in film", "Tesla in art", 
+    "Tesla Award", "Tesla as a unit of magnetic flux density",
+    
+    # Geographic Locations Unrelated to Tesla Inc.
+    "Tesla Street", "Tesla Park", "Tesla Community Center",
+    
+    # Other Unrelated Products
+    "Tesla Vodka", "Tesla Clothing Line", "Tesla Coffee Shop",
+]

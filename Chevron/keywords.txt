@@ -1,0 +1,46 @@
+chevron_inclusion_keywords = [
+    # Products and Services
+    "Chevron gasoline", "Techron", "Delo", "Havoline", 
+    "Chevron Lubricants", "Oronite", "Chevron Gas Stations",
+    
+    # Operations and Technologies
+    "Chevron oil and gas", "Chevron LNG", "Chevron shale",
+    "Chevron deepwater", "Chevron renewables", "Chevron energy transition",
+    
+    # Corporate and Culture
+    "Chevron CEO", "Michael Wirth", "Chevron Board of Directors",
+    "Chevron annual report", "Chevron stock", "CVX",
+    "Chevron corporate responsibility", "Chevron community engagement",
+    
+    # Events and Conferences
+    "Chevron investor day", "Chevron earnings call", 
+    "Chevron environmental conference", "Chevron technology forum",
+    
+    # Partnerships and Collaborations
+    "Chevron partnership", "Chevron joint venture", 
+    "Chevron collaboration", "Chevron alliance",
+    
+    # Competitors and Industry
+    "Chevron vs. ExxonMobil", "Chevron vs. Shell", "Chevron vs. BP", 
+    "Oil and gas industry", "Energy market trends", "Renewable energy investments",
+]
+
+chevron_exclusion_keywords = [
+    # Chevron as a Pattern or Design
+    "Chevron pattern", "Chevron design", "Chevron fabric", 
+    "Chevron wallpaper", "Chevron architecture",
+    
+    # Military Ranks and Insignia
+    "Chevron rank", "Military chevron", "Chevron insignia", 
+    "Sergeant chevron",
+    
+    # Geographic Locations Unrelated to Chevron Corporation
+    "Chevron Island", "Chevron Reef", "Chevron Hills",
+    
+    # Other Unrelated Uses
+    "Chevron stitch", "Chevron bracelet", "Chevron artwork", 
+    "Chevron in fashion", "Chevron award",
+    
+    # Unrelated Companies or Brands with Chevron in the Name
+    "Chevron Pizza", "Chevron Café", "Chevron Boutique",
+]

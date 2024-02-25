@@ -1,0 +1,50 @@
+microsoft_inclusion_keywords = [
+    # Products and Hardware
+    "Surface", "Surface Pro", "Surface Laptop", "Surface Book",
+    "Xbox", "Xbox One", "Xbox Series X", "Xbox Series S",
+    "Microsoft PC", "Microsoft HoloLens", "Windows Phone",
+
+    # Software and Services
+    "Windows updates", "Windows 10", "Windows 11", "Microsoft 365",
+    "Microsoft Office", "Outlook", "OneDrive",
+    "Microsoft Teams", "Skype", "Bing",
+    "Microsoft Edge", "Internet Explorer",
+    "Azure", "SQL Server", "Visual Studio",
+
+    # Technology and Innovations
+    "Cloud computing", "AI", "Machine Learning",
+    "Microsoft Cognitive Services", "Azure AI",
+    "Microsoft Security", "Windows Defender",
+    "GitHub", "Power Platform", "Dynamics 365",
+
+    # Corporate and Culture
+    "Satya Nadella", "Bill Gates", "Paul Allen",
+    "Microsoft Store", "Microsoft Research",
+    "Microsoft Campus", "Redmond",
+    "Microsoft Build", "Microsoft Ignite",
+    "Microsoft Philanthropies", "Code.org",
+
+    # Events and Conferences
+    "Microsoft Inspire", "Build Conference",
+    "Microsoft Developer Days", "TechEd",
+    "Xbox game releases", "Halo release",
+
+    # Competitors and Industry
+    "Microsoft vs. Apple", "Microsoft vs. Amazon", "Microsoft vs. Google",
+    "Microsoft's market share", "Cloud market",
+    "PC market", "Gaming market", "Enterprise solutions",
+]
+
+microsoft_exclusion_keywords = [
+    # Unrelated "windows"
+    "glass windows", "car windows", "house windows", "window cleaning", "window treatments",
+    
+    # Unrelated "surface"
+    "surface area", "surface water", "surface texture", "surface cleaning", "surface design",
+
+    # Common phrases or idioms
+    "opening a window of opportunity", "window into the soul", "surface-level examination", "only scratched the surface",
+    
+    # Geographical references
+    "Windows Valley", "Surface Creek"
+]

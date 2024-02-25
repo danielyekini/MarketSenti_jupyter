@@ -1,0 +1,91 @@
+positive_threshold=0.625, negative_threshold=0.73
+
+# Keywords to compute keyword embeddings and compare with article tites
+apple_inclusion_keywords = [
+ # Products and Hardware
+    "iMac", "iMac Pro",
+    "Mac Mini", "Mac Pro",
+    "iPhone", "iPhone SE", "iPhone X", "iPhone 11", "iPhone 12", "iPhone 13",
+    "iPad Pro", "iPad Air", "iPad Mini", "iPadOS",
+    "Apple Watch Series", "watchOS",
+    "iPod", "iPod touch", "iPod Shuffle",
+
+    # Software and Services
+    "iOS updates", "macOS updates", "watchOS updates",
+    "iCloud", "iCloud Drive", "iCloud Photo Library",
+    "iTunes", "Apple Music", "Apple Podcasts",
+    "Apple TV+", "Apple TV app", "Apple Originals",
+    "Apple Arcade", "Game Center", "App Store",
+    "Apple Card",
+
+    # Technology and Innovations
+    "phones", "Retina display", "Liquid Retina", "Super Retina",
+    "Face ID", "Touch ID", "Apple Pay Cash",
+    "Apple M2 Chip", "A15 Bionic", "H1 Chip",
+    "TrueDepth camera", "Night mode", "Deep Fusion",
+    "LiDAR Scanner", "ARKit",
+
+    # Corporate and Culture
+    "Tim Cook", "Steve Jobs", "Steve Wozniak", "Jony Ive",
+    "Apple Store", "Genius Bar", "Today at Apple",
+    "Apple Campus 2", "Spaceship campus",
+    "Infinite Loop", "One Apple Park Way",
+    "Apple Design Awards", "Apple Entrepreneur Camp",
+    "AppleInsider", "MacRumors",
+
+    # Events and Conferences
+    "Special Events", "Apple Keynotes",
+    "Apple Spring Event", "Apple Fall Event",
+    "iPhone launch event", "iPad launch event",
+    "Apple Developer Forums", "Tech Talks",
+    "Apple Design Awards", "Shot on iPhone Challenge",
+
+    # Competitors and Industry
+    "Apple vs. Samsung", "Apple vs. Google", "Apple vs. Amazon", "Apple vs. Microsoft",
+    "iOS vs. Android",
+    "Mac vs. PC",
+    "Apple's market share",
+    "Innovations in consumer electronics",
+    "Trends in technology and mobile computing",
+
+    # Potentially ambiguous headlines
+    "Repurposing Your Dead Mac",
+    "Apple surprises us with a new, more-talkative iPod shuffle",
+    "Not Only Was Steve Jobs Sick, He Had A Liver Transplant",
+    "What's driving Steve Jobs?",
+    "A Suicide at an Apple Manufacturer in China",
+    "Compensation: $44000 And a MacBook - Cult of Mac",
+    "The iTunes App Store Rolls with the Travel Season",
+    "Steve Jobs Explains His Weight Loss in Healthnote",
+    "Apple iPod touch (3rd Generation) 32GB Review: iPod touch Review",
+    "He Put the Mac in Mackintosh",
+    "Apple's Iconic Ad",
+    "Apple's Latest Ad Takes Aim at Microsoft's 'Laptop Hunters' Campaign",
+    "Apple iPhone 12 will have four models",
+    "Apple Wins cool Car Patent",
+    "Apple Retail Stores",
+    "Apple Details Safety Measures",
+    "Apple Is the Worst Performer in the Dow",
+    "Apple Unveils Panicked Man With No Ideas",
+    "Apple goes plastic and colorful with new iPhone",
+    "Apple's iPhone marketing takes fashion catwalk ",
+    "The chart Tim Cook doesn't want you to see",
+]
+
+apple_exclusion_keywords = [
+    # Fruit and agriculture
+    "apple orchard", "apple harvest", "apple picking", "apple variety", "apple cider", "apples",
+    "apple pie", "apple pie", "apple crumble", "apple sauce", "apple dessert", "apple recipe",
+    "apple nutrition", "apple health benefits", "apple tree", "apple seed", "apple farming",
+
+    # Geographical references
+    "Big Apple", "Apple Hill", "Apple City", "Apple River", "Apple Blossom Festival"
+    
+    # Common phrases or idioms
+    "apple of my eye", "bad apple", "apple doesn't fall far from the tree", "upset the apple cart", "compare apples to oranges",
+    "eating healthy", 
+    
+    # Unrelated products or services
+    "apple shampoo", "apple cosmetics", "apple fragrance", "apple scented", "apple flavor",
+    "apple soda", "apple juice", "apple wine", "apple brandy", "apple beer",
+]

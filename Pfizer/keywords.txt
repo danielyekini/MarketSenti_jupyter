@@ -1,0 +1,33 @@
+pfizer_inclusion_keywords = [
+    # Products and Drugs
+    "Viagra", "Xanax", "Lipitor", "Zithromax", "Celebrex",
+    "Pfizer-BioNTech COVID-19 Vaccine", "Comirnaty", "BNT162b2",
+    "Eliquis", "Ibrance", "Prevnar 13", "Lyrica", "Chantix",
+
+    # Corporate and Business
+    "Pfizer acquisitions", "Pfizer mergers",
+    "Pfizer CEO", "Albert Bourla", "Ian Read",
+    "Pfizer stock", "PFE",
+    "Pfizer earnings report", "Pfizer dividends",
+    "Pfizer research and development", "Pfizer clinical trials",
+
+    # Innovations and Technologies
+    "mRNA vaccine", "gene therapy", "biopharmaceuticals",
+    "Pfizer patents", "drug development",
+    "Pfizer labs", "pharmaceutical manufacturing",
+
+    # Collaborations and Partnerships
+    "Pfizer and BioNTech", "Pfizer collaboration",
+    "Pfizer alliance", "partnership agreements",
+
+    # Regulatory and Legal
+    "FDA approval", "EMA approval",
+    "Pfizer lawsuit", "regulatory compliance",
+    "drug recalls", "safety warnings",
+
+    # Health and Societal Impact
+    "Vaccine distribution", "drug affordability",
+    "public health initiatives", "access to medicine",
+]
+
+exclusion_keywords = []

@@ -1,0 +1,8 @@
+Keywords to be switched from cleaned_filtered:
+
+pie: 'Appke pie'
+fiona: 'Fiona Apple'
+
+Keywords to be switched from cleaned_filtered:
+
+iphone: 'iphone'
