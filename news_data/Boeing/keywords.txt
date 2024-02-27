@@ -1,0 +1,59 @@
+boeing_inclusion_keywords = [
+    # Commercial Aircraft
+    "Boeing 737", "Boeing 747", "Boeing 767", "Boeing 777", "Boeing 787 Dreamliner",
+    "Boeing MAX", "Boeing Business Jet", "Sky Interior", "Boeing Freighter",
+    
+    # Defense, Space & Security
+    "Boeing Defense", "Boeing Space", "Boeing Security",
+    "F/A-18 Super Hornet", "EA-18G Growler", "Boeing P-8 Poseidon",
+    "CH-47 Chinook", "AH-64 Apache", "V-22 Osprey",
+    "Boeing Satellites", "Boeing Missile Defense", "Boeing Autonomous Systems",
+    
+    # Services
+    "Boeing Global Services", "Boeing Support", "Boeing Training",
+    "Boeing Parts", "Boeing Analytics", "Boeing Digital Solutions",
+    
+    # Technology and Innovations
+    "Boeing Research", "Boeing Technology", "Boeing Innovations",
+    "Boeing Aerodynamics", "Boeing Materials Technology",
+    "Boeing Environmental Performance", "Boeing Fuel Efficiency",
+    
+    # Corporate and Culture
+    "Boeing CEO", "Boeing Leadership", "Boeing Culture",
+    "Boeing Stock", "Boeing Shareholders", "Boeing Financials",
+    "Boeing Ethics", "Boeing Careers", "Boeing History",
+    
+    # Events and Conferences
+    "Boeing Air Show", "Paris Air Show", "Farnborough Air Show",
+    "Boeing Earnings Call", "Boeing Investor Relations",
+    
+    # Key Personnel and Locations
+    "Dennis Muilenburg", "Dave Calhoun", "William Boeing",
+    "Boeing Chicago", "Boeing Seattle", "Boeing Everett",
+    
+    # Notable Incidents and Developments
+    "Boeing 737 MAX crisis", "Boeing groundings", "Boeing safety",
+    "Boeing return to service", "Boeing MCAS", "Boeing Starliner",
+    
+    # Potentially ambiguous headlines
+    "Boeing Is Likely to Overtake Airbus",
+]
+
+boeing_exclusion_keywords = [
+    # Common names and unrelated "boeing"
+    "Boeing family", "Boeing Field", "Boeing Creek",
+    
+    # General aviation unrelated to The Boeing Company
+    "Cessna", "Airbus", "Embraer", "Lockheed Martin",
+    "Private jet", "Airplane model", "Flight school",
+    
+    # Common phrases or idioms
+    "On a wing and a prayer", "Fly by the seat of one's pants", "When pigs fly",
+    "Jet set lifestyle", "Sky-high expectations", "Take under one's wing",
+    
+    # Geographical references
+    "Boeing Avenue", "Boeing Way", "Boeing Park",
+    
+    # Completely unrelated contexts
+    "Boeing boing sound", "Boeing out of control", "Boeing from work",
+]

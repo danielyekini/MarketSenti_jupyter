@@ -1,0 +1,57 @@
+# Keywords to compute keyword embeddings and compare with article tites
+google_inclusion_keywords = [
+    # Google Services and Products
+    "Google Search", "Google Ads", "AdSense", "Google Analytics",
+    "Google Maps", "Google Earth", "Google Workspace", "Gmail",
+    "Google Drive", "Google Docs", "Google Sheets", "Google Slides",
+    "Google Calendar", "Google Meet", "Google Chat",
+    "Google Cloud", "Google Cloud Platform", "GCP",
+    "Android", "Google Play Store", "Google Play Services",
+    "YouTube", "Google Hardware", "Pixel", "Nest",
+    "Stadia", "Google Fit", "Google Duo", "Google Photos",
+    
+    # Technology and Innovations
+    "Google AI", "DeepMind", "Machine Learning", "Artificial Intelligence",
+    "Quantum Computing", "Bristlecone", "Sycamore",
+    "Project Loon", "Waymo", "Google Self-Driving Car", "Project Wing",
+    
+    # Corporate and Culture
+    "Sundar Pichai", "Larry Page", "Sergey Brin", "Alphabet Inc.",
+    "Googleplex", "Google I/O", "Think with Google",
+    "Google X", "Google Ventures", "Google Capital",
+    
+    # Key Personnel
+    "Ruth Porat", "David Drummond", "Kent Walker", "Thomas Kurian",
+    
+    # Events and Conferences
+    "Google Developer Days", "Google Marketing Live",
+    
+    # Legal and Regulatory Issues
+    "Google antitrust", "Google privacy", "Google data protection",
+    
+    # Notable Developments
+    "Google Fiber", "Google Sidewalk Labs", "Verily",
+]
+
+google_exclusion_keywords = [
+    # Common Uses Unrelated to the Company
+    "googles", "swim goggles", "snow goggles", "goggle eyes",
+    
+    # Geographical Locations
+    "Google, Kansas", "Google Creek", 
+    
+    # Miscellaneous Unrelated References
+    "Google as a verb", "Google it",
+    
+    # Unrelated Businesses and Entities
+    "Goggles Music Manager", "GoggleWorks Center for the Arts",
+    
+    # Ambiguous Phrases or Common Sayings
+    "Just google it", "Google before you tweet", 
+    
+    # Historical or Mythological References
+    "The Oracle of Delphi", "Google of the ancient world",
+    
+    # Biology or Ecology
+    "Animal species with 'google' in the name", "Plant species named 'google'",
+]

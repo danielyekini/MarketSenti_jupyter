@@ -1,0 +1,54 @@
+# Keywords to compute keyword embeddings and compare with article tites
+nvidia_inclusion_keywords = [
+    # GPU Products
+    "NVIDIA GeForce", "NVIDIA RTX", "NVIDIA GTX", "NVIDIA Quadro",
+    "NVIDIA Tesla", "NVIDIA TITAN", "NVIDIA SHIELD", "NVIDIA GRID",
+    
+    # Technology and Innovations
+    "CUDA", "Deep Learning Super Sampling", "DLSS", "Ray Tracing", "G-SYNC",
+    "NVIDIA GameWorks", "PhysX", "NVIDIA Omniverse", "NVIDIA AI",
+    
+    # Corporate and Culture
+    "Jensen Huang", "NVIDIA CEO", "NVIDIA Corporation", "NVIDIA stock",
+    "NASDAQ:NVDA", "NVIDIA earnings call", "NVIDIA annual report",
+    "NVIDIA research", "NVIDIA internship",
+    
+    # Software and Services
+    "NVIDIA drivers", "NVIDIA Studio", "NVIDIA Broadcast",
+    "NVIDIA DeepStream", "NVIDIA Isaac", "NVIDIA Clara",
+    "Gaming laptop review",
+    
+    # Events and Conferences
+    "GPU Technology Conference", "GTC", "NVIDIA Developer Conference",
+    "NVIDIA CES Presentation", "NVIDIA SIGGRAPH",
+    
+    # Automotive Technologies
+    "NVIDIA DRIVE", "Autonomous vehicles", "NVIDIA Automotive",
+    
+    # AI and Computing Platforms
+    "NVIDIA DGX", "NVIDIA Jetson", "NVIDIA AI Platform",
+    "NVIDIA Mellanox", "NVIDIA Networking",
+    
+    # Key Personnel
+    "Chris Malachowsky", "Curtis Priem", "Colette Kress", "Tim Teter",
+    "Bill Dally", "Debora Shoquist", "Jay Puri",
+    
+    # Notable Developments and Acquisitions
+    "NVIDIA acquisition of Arm Limited", "NVIDIA acquisition of Mellanox",
+]
+
+nvidia_exclusion_keywords = [
+    # Video Content and Gaming Unrelated to NVIDIA
+    "Video tutorial", "Streaming video", "Gaming review",
+    "Game walkthrough", "Video editing software", "Gaming tournament",
+    
+    # Unrelated Entities with Similar Names
+    "Nevada state", "Las Vegas", "Reno", "Sierra Nevada",
+
+    # General Technology Terms
+    "Artificial intelligence", "Machine learning", "Graphic design",
+    "Video processing", "Digital rendering", "Computer hardware",
+    
+    # Miscellaneous
+    "Nvidia grass", "Nvidia flower", "Nevada landmarks",
+]

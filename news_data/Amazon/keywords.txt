@@ -1,0 +1,63 @@
+amazon_inclusion_keywords = [
+    # Online Retail and Services
+    "Amazon Prime", "Amazon Marketplace", "Amazon Fresh", "Amazon Pantry",
+    "Amazon Fashion", "Amazon Basics", "Prime Day", "Kindle Store",
+    "Amazon Music", "Amazon Books", "Amazon Go", "Amazon Drive",
+    
+    # Amazon Devices
+    "Kindle", "Fire Tablet", "Fire TV", "Amazon Echo", "Alexa",
+    "Echo Dot", "Amazon Fire Stick", "Kindle Oasis", "Echo Show",
+    
+    # Amazon Web Services (AWS)
+    "AWS", "Amazon S3", "EC2", "AWS Lambda", "Amazon RDS",
+    "Amazon DynamoDB", "AWS CloudFront", "Amazon Aurora",
+    "AWS Marketplace", "Amazon CloudWatch",
+    
+    # Technology and Innovations
+    "Amazon Robotics", "Drone delivery", "Amazon AI",
+    "Amazon Machine Learning", "Amazon Lex",
+    
+    # Corporate and Culture
+    "Jeff Bezos", "Andy Jassy", "Amazon leadership",
+    "Amazon stock", "NASDAQ:AMZN", "Amazon annual report",
+    "Amazon sustainability", "Amazon career",
+    
+    # Events and Conferences
+    "re:Invent", "Amazon Web Services Summit",
+    
+    # Key Personnel
+    "Jeff Bezos", "Andy Jassy", "Werner Vogels", "Dave Clark",
+    "Jeff Blackburn", "Brian Olsavsky", "Douglas Herrington",
+    
+    # Notable Developments
+    "Amazon HQ2", "Amazon Air", "Amazon fulfillment center",
+    "Amazon second headquarters", "Amazon delivery network",
+    
+    # Legal and Regulatory Issues
+    "Amazon antitrust", "Amazon tax", "Amazon labor practices",
+    
+    # Amazon Studios and Video
+    "Amazon Original Series", "Amazon Studios", "Prime Video",
+]
+
+amazon_exclusion_keywords = [
+    # Amazon Rainforest and River
+    "Amazon rainforest", "Amazon river", "Amazon basin",
+    "Amazon deforestation", "Amazon conservation",
+    
+    # Mythology and Ancient History
+    "Amazon warriors", "Amazons", "Amazon mythology",
+    
+    # Unrelated Businesses and Entities
+    "Amazon fish", "Amazon parrot", "Amazon snakes",
+    
+    # Common Phrases and Other Uses
+    "Amazon-like", "Amazonian climate", "Amazon rainforest reviews"
+    
+    # Geographical Locations
+    "Amazon region", "Amazon state", "Hotel Amazon",
+    "Travel", "Trip"
+    
+    # Ambiguous Phrases
+    "Amazon of industry", "Amazon of the North",
+]

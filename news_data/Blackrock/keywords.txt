@@ -1,0 +1,60 @@
+blackrock_inclusion_keywords = [
+    # Financial Products and Services
+    "BlackRock funds", "iShares", "ETFs", "BlackRock Mutual Funds",
+    "Aladdin", "BlackRock Solutions", "Risk management", "Asset management",
+    "BlackRock Alternative Investors", "Portfolio management",
+    "BlackRock Retirement Solutions", "BlackRock Liquidity",
+    
+    # Investments and Strategies
+    "Equity investments", "Fixed income", "Multi-asset solutions",
+    "Systematic investing", "Factor-based strategies", "Sustainable investing",
+    "Impact investing", "BlackRock Global Allocation Fund",
+    
+    # Corporate Information and Culture
+    "BlackRock CEO", "Larry Fink", "BlackRock leadership team",
+    "BlackRock Board of Directors", "BlackRock Annual Report",
+    "BlackRock ESG", "BlackRock corporate culture",
+    "BlackRock investment approach", "BlackRock careers",
+    
+    # Technology and Innovations
+    "BlackRock financial technology", "FinTech", "Robo-advisors",
+    "Digital wealth management", "Investment analytics",
+    
+    # Key Personnel and Locations
+    "Robert Kapito","Barbara Novick", "Susan Wagner", 
+    "Laurence D. Fink", "Robert S. Kapito", "Gary Shedlin", "Christopher J. Meade", "Mark Wiedman",
+    "BlackRock New York headquarters",
+    "BlackRock offices worldwide",
+    
+    # Events and Conferences
+    "BlackRock earnings call", "BlackRock investor day",
+    "BlackRock conference",
+    
+    # Notable Developments and Initiatives
+    "BlackRock's climate change strategy", "BlackRock's stake in companies",
+    "BlackRock shareholder activism", "BlackRock market outlook",
+    
+    # Regulatory and Legal Aspects
+    "BlackRock SEC filings", "BlackRock compliance",
+    "Financial regulations affecting BlackRock",
+]
+
+blackrock_exclusion_keywords = [
+    # Geographical references and natural features
+    "Black rock formations", "Black Rock City", "Black Rock Desert",
+    "Black rocks in geology", "Black Rock Forest", "Black Rock Beach",
+    
+    # Common phrases or idioms
+    "As black as a rock", "Between a rock and a hard place",
+    
+    # Cultural references
+    "Black Rock musical festival", "Black Rock art installation",
+    
+    # Unrelated businesses and products
+    "Black rock grill", "Black rock coffee", "Black rock landscaping",
+    "Black rock chic fashion", "Black Rock Bar & Grill",
+    
+    # Miscellaneous
+    "BlackRock mountain biking", "Black Rock sailing",
+    "Black rock candy", "Black rock mining",
+]
